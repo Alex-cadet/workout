@@ -1,1 +1,2 @@
-Hello, World!
+Hello, World!                        _         _
+Wellcome to programming   \(*;*)/
