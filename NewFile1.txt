@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello, World!                        _         _
 Wellcome to programming   \(*;*)/
+=======
+Hello, World!
+Get started!
+>>>>>>> master
